@@ -1,4 +1,4 @@
-package com.system.batch.sybatchsystem.chap01.log;
+package com.system.batch.sybatchsystem.chap01_tasklet.log;
 
 
 import lombok.RequiredArgsConstructor;
