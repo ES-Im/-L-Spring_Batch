@@ -1,4 +1,4 @@
-package com.system.batch.sybatchsystem.chap02;
+package com.system.batch.sybatchsystem.chap00;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -13,7 +13,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.batch.core.job.Job;
 
 @Slf4j
-@Configuration
+//@Configuration
 @RequiredArgsConstructor
 public class CafeJobConfig {
 

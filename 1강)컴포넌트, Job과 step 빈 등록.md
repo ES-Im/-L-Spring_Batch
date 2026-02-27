@@ -38,8 +38,8 @@
 - job, step 빈 생성법
 - 
 
-```
-    package com.system.batch.sybatchsystem.chap02;
+```java
+    package com.system.batch.sybatchsystem.chap00;
     
     import lombok.RequiredArgsConstructor;
     import lombok.extern.slf4j.Slf4j;
